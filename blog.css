@@ -104,6 +104,8 @@ legend { font-weight: bold;
 	  border-bottom: 1px dashed #0388A6; }
 .mobile { display: none;}
 .desktop{ display: inline-block;}
+.space { margin-bottom: 300px;
+		margin-top: 30px;}
 #mysubmit { color: #0388A6;
 			font-weight:bold;
 			margin-top: 5px;
@@ -119,8 +121,7 @@ legend { font-weight: bold;
 		 grid-template-columns: 200px 1fr 100px;
 		 grid-template-rows: 100px 1fr 100px;
 }
-#space { margin-bottom: 300px;
-		margin-top: 30px;}
+
 
 @media only screen and (max-width: 1024px){
 	body{ margin:0;
