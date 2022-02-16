@@ -1,3 +1,3 @@
 # blogproject.github.io
-Honors Project for Sociology
-This website is for Sociologyy 111 Honors SU2020. 
+Honors Project for Sociology.
+This website is for Honors Sociologyy 111 SU2020 at Anne Arundel Community College. 
